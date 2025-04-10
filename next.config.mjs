@@ -9,7 +9,7 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "lh3.gratisography.com",
+        hostname: "gratisography.com",
         port: "",
       },
       {
