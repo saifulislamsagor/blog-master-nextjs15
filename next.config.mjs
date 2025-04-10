@@ -17,6 +17,11 @@ const nextConfig = {
         hostname: "gratisography.com",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "plus.unsplash.com",
+        port: "",
+      },
     ],
   },
 };
